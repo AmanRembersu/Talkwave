@@ -11,7 +11,7 @@ Typing indicators: Users can see when other users are typing a message.
 
 Setup
 Clone the repository:
-git clone https://github.com/yourusername/talkwave.git
+git clone https://github.com/AmanRembersu/talkwave.git
 
 
 Install dependencies:
